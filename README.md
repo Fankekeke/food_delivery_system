@@ -127,11 +127,15 @@ pharmacy-dispensing-system/
 admin
 123456
 
-[导师]
-teacher_demo
+[商家]
+shangjia
 123456
 
-[学生]
+[配送员]
+fkkk
+123456
+
+[用户]
 fank
 123456
 
