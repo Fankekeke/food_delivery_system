@@ -143,19 +143,19 @@ fank
 
 |  |  |
 |---------------------|---------------------|
-| ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/56ff036b-6713-4c6c-8ca2-597cb8a9c1c5.png) | ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/e998366a-7723-425c-91f0-ffaadad0fe54.png) |
-| ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/41da8d5f-dbde-4bcf-99c8-292a055681c3.png) | ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/d185b01c-84f9-45b2-89e3-a7e218ab8df1.png) |
-| ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/18efedb4-d362-4d03-88bd-2a9d2313f207.png) | ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/c8e9c203-3cbf-4ca8-890a-bc73521fe934.png) |
-| ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/12c40db7-e00a-454d-adbf-f077164eebb8.png) | ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/a0afbde7-0162-4312-8d98-fa926f0c4555.png) |
-| ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/7ebf0d10-f43f-4cf0-8e05-7efd624774ff.png) | ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/90042219-15b0-4967-a8cc-978020c38d0a.png) |
-| ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/7e3d1bbf-a1de-4465-a0a1-fbb0d08319fc.png) | ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/87793cfa-f98f-494a-a168-a4a0efc2198c.png) |
-| ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/6f364e96-992a-4d04-b005-6b3ea97148b3.png) | ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/3085c15c-49b5-49fe-9d8b-5b6a34b108c2.png) |
-| ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/6e24fdcb-5b1f-484d-bbaa-5b0dc622a781.png) | ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/856c1b8f-d5dd-4289-a75a-ed4b0c867d28.png) |
-| ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/6c8b7f13-9daf-4ee3-8fcc-922e60c366f5.png) | ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/798f4787-1e9c-4d33-858f-ca71aada1cc1.png) |
-| ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/5cdd7c29-e0b7-4c10-a9b8-9593ff960b2a.png) | ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/689b4e1a-90be-4ef8-a01c-7175819c0071.png) |
-| ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/ff1947ce-54e8-47be-b97e-ccd0f942817d.png) | ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/405b901a-2287-4d13-8c97-79f32b37a99d.png) |
-| ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/fa975298-66fc-4956-93ac-59b3d900e12a.png) | ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/78e9229a-a8f5-4786-bb89-c4ec60223a9a.png) |
-| ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/ead61e86-9dee-4b54-8415-2178eb907d5d.png) | ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/59e9c7d6-8cd0-47c7-ba68-e65330cedf41.png) |
+| ![](./assets/image%20(1).png) | ![](./assets/image%20(2).png) |
+| ![](./assets/image%20(3).png) | ![](./assets/image%20(4).png) |
+| ![](./assets/image%20(5).png) | ![](./assets/image%20(6).png) |
+| ![](./assets/image%20(7).png) | ![](./assets/image%20(8).png) |
+| ![](./assets/image%20(9).png) | ![](./assets/image%20(10).png) |
+| ![](./assets/image%20(11).png) | ![](./assets/image%20(12).png) |
+| ![](./assets/image%20(13).png) | ![](./assets/image%20(14).png) |
+| ![](./assets/image%20(15).png) | ![](./assets/image%20(16).png) |
+| ![](./assets/image%20(17).png) | ![](./assets/image%20(18).png) |
+| ![](./assets/image%20(19).png) | ![](./assets/image%20(20).png) |
+| ![](./assets/image%20(21).png) | ![](./assets/image%20(22).png) |
+| ![](./assets/image%20(23).png) | ![](./assets/image%20(24).png) |
+| ![](./assets/image%20(25).png) | ![](./assets/image%20(26).png) |
 
 #### 演示视频
 
@@ -172,6 +172,8 @@ WeChat: `Storm_Berserker`
 > 1.项目纯原创，不做二手贩子 2.一次购买终身有效 3.项目讲解持续到答辩结束 4.非常负责的答辩指导 5.**黑奴价格**
 
 > 项目部署调试不好包退！功能逻辑没讲明白包退！
+
+<div align=center><img align="center" src="./assets/product_word.png" alt="fankekeke" /></div>
 
 #### 其它资源
 [2026年-答辩顺利通过-客户评价🀄](https://berserker287.github.io/2026/06/29/2026%E5%B9%B4%E7%AD%94%E8%BE%A9%E9%A1%BA%E5%88%A9%E9%80%9A%E8%BF%87/)
@@ -198,4 +200,8 @@ WeChat: `Storm_Berserker`
 
 More info: [悲伤的橘子树](https://berserker287.github.io/)
 
-<p><img align="center" src="https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/%E5%90%88%E4%BD%9C%E7%89%A9%E6%96%99%E6%A0%B7%E5%BC%8F%20(3).png" alt="fankekeke" /></p>
+<div align="center"><img align="center" src="./assets/chat_qr_code.png" alt="fankekeke" width=250 /></div>
+
+<p><img align="center" src="./assets/wechat_group.png" alt="fankekeke" /></p>
+
+**感谢查看**
